@@ -1,7 +1,7 @@
 import styles from "../styles/Home.module.css";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
-import Navbar from "@/components/Navbar";
-import MotoText from "@/components/MotoText";
+import Navbar from "../components/Navbar";
+import MotoText from "../components/MotoText";
 import GetStartedButton from "../Components/GetStarted";
 
 export default function Home() {
